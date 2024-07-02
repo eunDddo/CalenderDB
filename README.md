@@ -31,5 +31,5 @@ streamlit run MemoDB.py
 
 ## Screenshots
 <p align="center">
-  <img src="images/CalendarDB.PNG" width="400">
+  <img src="CalendarDB.PNG" width="400">
 </p>
